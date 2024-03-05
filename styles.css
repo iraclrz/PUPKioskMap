@@ -21,13 +21,17 @@
 }
 #header_2{
 	margin-left: 0px;
-	margin-top: -1125px;
+	margin-top: -1110px;
 	height: 100px;
 	width: 1513px;
 	padding-left: 20px;
 	padding-top: 10px;
 	position: relative;	
 }
+#pup_logo{
+	margin-top: 13px;
+}
+
 .name{
 	font-size: 25px;
 	z-index: 1;
