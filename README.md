@@ -1,2 +1,2 @@
 # PUPKioskMap 
-This is the Map of the Polytechnic University of the Philippines (P.U.P.) Main Campus using HTML and CSS. Once a specific location is clicked, its information will be displayed.
+The kiosk map project for the Polytechnic University of the Philippines (P.U.P.) Main Campus utilizes HTML and CSS to create a user-friendly interface. Users can click on specific locations to instantly access relevant information. This project combines functionality with visual appeal, providing a seamless navigation experience for students, faculty, and visitors. By democratizing access to campus information, it fosters inclusivity and enhances the overall campus experience.
